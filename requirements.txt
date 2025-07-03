@@ -1,0 +1,11 @@
+streamlit
+numpy
+pandas
+librosa
+tensorflow
+joblib
+sounddevice
+wavio
+scipy
+audio_recorder_streamlit
+soundfile 
