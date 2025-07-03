@@ -2,7 +2,7 @@ streamlit
 numpy
 pandas
 librosa
-tensorflow
+tensorflow==2.12.0
 joblib
 sounddevice
 wavio
