@@ -1,4 +1,5 @@
 streamlit
+audio-recorder-streamlit
 numpy
 pandas
 librosa
